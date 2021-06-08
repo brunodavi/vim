@@ -1,2 +1,2 @@
-# vimrc
-my vimrc
+# vim
+My vim on termux
